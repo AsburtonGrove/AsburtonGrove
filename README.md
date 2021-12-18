@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsburtonGrove
-- 👀 I’m interested in UI/UX , Data analyst , and web developer
-- 🌱 I’m currently learning UI/UX than i'm still learning C , html , and javascrpit language
+- 👀 I’m interested in UI/UX, and web developer
+- 🌱 I’m currently learning about html, css , javascript , php, and also phyton
 - 💞️ I’m looking to collaborate on everybody who wants learning with me :)
 - 📫 How to reach me u can hit my instagram @_eevnxx_
 
