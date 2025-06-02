@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @AsburtonGrove
+## Hello World, I’m AsburtonGrove 👋
+
+![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ5aTBrcnd3anA2NXA3Y3ViZWNzc3NlZGhmeWpqOXhhYmVkdGRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 - 👀 I’m interested in Mobile Development, and Web Development
-- 🌱 I’m currently learning about Javascript,Kotlin,Java,PHP,Python,HTML,CSS
-- 💞️ I’m looking to collaborate on everybody who wants learning with me :)
-- 📫 How to reach me u can hit my instagram @_eevnxx_
+- 🌱 I’m currently working on **@BukitMega**
+- 💞️ I’m currently learning **Laravel** Framework
+- 📫 Here to see my Portfolio [**Website**](https://bryanjonathans.netlify.app/)
 
 <!---
 AsburtonGrove/AsburtonGrove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
